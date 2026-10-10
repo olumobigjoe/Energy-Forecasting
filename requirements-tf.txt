@@ -1,0 +1,3 @@
+# Optional: real BiLSTM engine. Needs Python 3.9-3.12 (64-bit).
+-r requirements.txt
+tensorflow>=2.13
